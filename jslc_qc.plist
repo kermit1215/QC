@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jslc.jslhouse</string>
+				<string>com.jsls.jslhouse</string>
 				<key>bundle-version</key>
 				<string>1.132</string>
 				<key>kind</key>
