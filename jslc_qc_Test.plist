@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jslc.qc</string>
+				<string>com.jsls.jslhouse</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.132</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string></string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>JSL</string>
+				<string>jslhouse</string>
 			</dict>
 		</dict>
 	</array>
